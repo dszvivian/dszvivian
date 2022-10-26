@@ -4,7 +4,7 @@
 [![banner-Cover-Image.png](https://i.postimg.cc/nL9g8cK0/banner-Cover-Image.png)](https://postimg.cc/gwdN8pTZ)
 
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4649464-Video-Call">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on [Weather App](https://github.com/dszvivian/WeatherApp)
