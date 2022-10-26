@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dszvivian" target="blank"><img src="https://img.shields.io/twitter/follow/dszvivian?logo=twitter&style=for-the-badge" alt="dszvivian" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4649464-Video-Call")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4649464-Video-Call"/>
 
 [![banner-Cover-Image.png](https://i.postimg.cc/nL9g8cK0/banner-Cover-Image.png)](https://postimg.cc/gwdN8pTZ)
 
